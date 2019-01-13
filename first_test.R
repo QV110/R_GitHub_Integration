@@ -1,8 +1,3 @@
-#Basic math test for R, basic of R  code will increase your ability to
-#manipulate difficult,large data, and complex machine learning.
-#must understand basic manipuation before you can jump into deep machine learning to save time and frustration.
-#Make sure to create Git account to link with R to  save your code, share and  incase R crash second backup. Test
-#your intergration and test git bash, set user  and proper links are communicating. 
 
 1+1
 3*7*2
